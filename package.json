@@ -12,6 +12,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "firebase": "^8.2.4",
+    "gh-pages": "^3.1.0",
     "poll": "^1.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -25,7 +26,10 @@
     "react-slick": "^0.27.14",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://matthewpiedra.github.io/Pop-up-flea",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

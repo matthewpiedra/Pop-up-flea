@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pop-up-flea/static/css/main.1227e88c.chunk.css",
+    "main.js": "/Pop-up-flea/static/js/main.fd8dbef3.chunk.js",
+    "main.js.map": "/Pop-up-flea/static/js/main.fd8dbef3.chunk.js.map",
+    "runtime-main.js": "/Pop-up-flea/static/js/runtime-main.851f1820.js",
+    "runtime-main.js.map": "/Pop-up-flea/static/js/runtime-main.851f1820.js.map",
+    "static/js/2.8bcc9cf3.chunk.js": "/Pop-up-flea/static/js/2.8bcc9cf3.chunk.js",
+    "static/js/2.8bcc9cf3.chunk.js.map": "/Pop-up-flea/static/js/2.8bcc9cf3.chunk.js.map",
+    "index.html": "/Pop-up-flea/index.html",
+    "static/css/main.1227e88c.chunk.css.map": "/Pop-up-flea/static/css/main.1227e88c.chunk.css.map",
+    "static/js/2.8bcc9cf3.chunk.js.LICENSE.txt": "/Pop-up-flea/static/js/2.8bcc9cf3.chunk.js.LICENSE.txt",
+    "static/media/slide_four.25b605e9.jpg": "/Pop-up-flea/static/media/slide_four.25b605e9.jpg",
+    "static/media/slide_one.dbf905db.jpg": "/Pop-up-flea/static/media/slide_one.dbf905db.jpg",
+    "static/media/slide_three.8500c1f9.jpg": "/Pop-up-flea/static/media/slide_three.8500c1f9.jpg",
+    "static/media/slide_two.a3a4982e.jpg": "/Pop-up-flea/static/media/slide_two.a3a4982e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.851f1820.js",
+    "static/js/2.8bcc9cf3.chunk.js",
+    "static/css/main.1227e88c.chunk.css",
+    "static/js/main.fd8dbef3.chunk.js"
+  ]
+}
